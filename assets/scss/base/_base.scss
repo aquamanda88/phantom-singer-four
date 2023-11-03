@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+// 無序清單列表
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+// 文字連結
+a {
+  text-decoration: none;
+}
+// 圖片
+img {
+  max-width: 100%;
+  height: auto;
+}
+// 字型
+body {
+  font-family: "Noto Sans TC", "PuradakGentleGothicR", "Noto Sans KR",
+    sans-serif;
+  font-weight: normal;
+}

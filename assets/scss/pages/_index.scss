@@ -1,0 +1,20 @@
+.main {
+  background-image: linear-gradient(to bottom, #110519, #180d20);
+  color: #fff;
+
+  .user-content {
+    color: #6b5081;
+    font-weight: 300;
+  }
+
+  .bg-footer {
+    background-image: url(../../image/background.png);
+    background-size: cover;
+    background-position: bottom;
+    box-shadow: 0 100px 100px #180d20 inset;
+    height: 400px;
+  }
+}
+h2 {
+  font-family: "PT Serif", "Literata", "PuradakGentleGothicR", sans-serif;
+}

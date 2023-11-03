@@ -1,0 +1,15 @@
+/** 引入字型檔 */
+// 正體中文 - 黑體
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap");
+// 希臘文 - 襯線體
+@import url("https://fonts.googleapis.com/css2?family=Literata:wght@600&display=swap");
+// 拉丁語系 - 襯線體
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap");
+// 韓文 - 黑體
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700&display=swap");
+// 韓文 - 明體
+@font-face {
+  font-family: "PuradakGentleGothicR";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.1/PuradakGentleGothicR.woff2")
+    format("woff2");
+}
